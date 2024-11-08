@@ -1,0 +1,1 @@
+This is a practice based on the coding challenge from the youtube channel "The Coding Train", the original code belongs to its creator Daniel Shiffman, and I'm not intending to pass this code as mine.
